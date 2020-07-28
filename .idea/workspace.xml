@@ -16,14 +16,17 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06274977-175c-4874-b77f-ac90b39f90af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DjangoBlog2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="06274977-175c-4874-b77f-ac90b39f90af" name="Default Changelist" comment="가상환경 생성">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +35,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1fINSctPLpADvXxil96RN3FQLVF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,6 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,6 +59,28 @@
       <option name="presentableId" value="Default" />
       <updated>1595901647683</updated>
     </task>
+    <task id="LOCAL-00001" summary="가상환경 생성">
+      <created>1595902132613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595902132613</updated>
+    </task>
+    <task id="LOCAL-00002" summary="가상환경 생성">
+      <created>1595902148012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595902148012</updated>
+    </task>
+    <task id="LOCAL-00003" summary="가상환경 생성">
+      <created>1595902231911</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595902231911</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,17 +88,37 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="가상환경 생성" />
+    <option name="LAST_COMMIT_MESSAGE" value="가상환경 생성" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="722" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595901914168">
+    <state x="555" y="57" key="SettingsEditor" timestamp="1595902421175">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="722" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595901914168" />
+    <state x="555" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595902421175" />
+    <state x="722" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595902459977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595902459977" />
     <state x="864" y="199" key="git4idea.merge.GitPullDialog" timestamp="1595901884258">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
