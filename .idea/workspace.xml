@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06274977-175c-4874-b77f-ac90b39f90af" name="Default Changelist" comment="가상환경 생성">
+    <list default="true" id="06274977-175c-4874-b77f-ac90b39f90af" name="Default Changelist" comment="config 폴더 생성">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,15 +38,19 @@
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1fINSctPLpADvXxil96RN3FQLVF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/manage.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -80,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595902231911</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="config 폴더 생성">
+      <created>1595903008631</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595903008631</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,18 +118,32 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="가상환경 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="가상환경 생성" />
+    <MESSAGE value="config 폴더 생성" />
+    <option name="LAST_COMMIT_MESSAGE" value="config 폴더 생성" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="555" y="57" key="SettingsEditor" timestamp="1595902421175">
+    <state x="366" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595903345627">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="555" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595902421175" />
-    <state x="722" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595902459977">
+    <state x="366" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595903345627" />
+    <state x="713" y="125" key="EnvironmentVariablesDialog" timestamp="1595903284177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="722" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595902459977" />
+    <state x="713" y="125" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595903284177" />
+    <state x="619" y="150" key="FileChooserDialogImpl" timestamp="1595903154019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="619" y="150" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595903154019" />
+    <state x="555" y="57" key="SettingsEditor" timestamp="1595903409274">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595903409274" />
+    <state x="722" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595903026783">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595903026783" />
     <state x="864" y="199" key="git4idea.merge.GitPullDialog" timestamp="1595901884258">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
