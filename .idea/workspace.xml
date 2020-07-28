@@ -25,13 +25,49 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06274977-175c-4874-b77f-ac90b39f90af" name="Default Changelist" comment="config 폴더 생성">
+    <list default="true" id="06274977-175c-4874-b77f-ac90b39f90af" name="Default Changelist" comment="노트북 서비스 추가.">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/templates/notebook/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/templates/notebook/post_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/npm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DjangoBlog2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DjangoBlog2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,10 +83,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/manage.py" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\DjangoBlog2\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\DjangoBlog2\notebook\templates\notebook" />
+      <recent name="D:\python\DjangoBlog2\notebook" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -91,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595903008631</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="노트북 서비스 추가.">
+      <created>1595904079430</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595904079430</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,32 +175,41 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="가상환경 생성" />
     <MESSAGE value="config 폴더 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="config 폴더 생성" />
+    <MESSAGE value="노트북 서비스 추가." />
+    <option name="LAST_COMMIT_MESSAGE" value="노트북 서비스 추가." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="366" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595903345627">
+    <state x="366" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595915423863">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="366" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595903345627" />
+    <state x="366" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595915423863" />
     <state x="713" y="125" key="EnvironmentVariablesDialog" timestamp="1595903284177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="713" y="125" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595903284177" />
-    <state x="619" y="150" key="FileChooserDialogImpl" timestamp="1595903154019">
+    <state x="619" y="150" key="FileChooserDialogImpl" timestamp="1595904401131">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="619" y="150" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595903154019" />
-    <state x="555" y="57" key="SettingsEditor" timestamp="1595903409274">
+    <state x="619" y="150" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595904401131" />
+    <state x="996" y="114" key="RollbackChangesDialog" timestamp="1595915350485">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="555" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595903409274" />
-    <state x="722" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595903026783">
+    <state x="996" y="114" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595915350485" />
+    <state x="287" y="59" key="SettingsEditor" timestamp="1595921739555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="722" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595903026783" />
+    <state x="287" y="59" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595921739555" />
+    <state x="722" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595904090408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595904090408" />
     <state x="864" y="199" key="git4idea.merge.GitPullDialog" timestamp="1595901884258">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="864" y="199" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1595901884258" />
+    <state x="947" y="312" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595915314189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="947" y="312" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595915314189" />
   </component>
 </project>
