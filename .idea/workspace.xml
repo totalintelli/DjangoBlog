@@ -25,27 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06274977-175c-4874-b77f-ac90b39f90af" name="Default Changelist" comment="html 파일에 게시물 출력.">
-      <change afterPath="$PROJECT_DIR$/notebook/static/css/blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/templates/notebook/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/templates/notebook/post_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/css/bootstrap-theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/css/bootstrap-theme.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/css/bootstrap-theme.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/npm.js" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/js/npm.js" afterDir="false" />
-    </list>
+    <list default="true" id="06274977-175c-4874-b77f-ac90b39f90af" name="Default Changelist" comment="게시물 조회화면 디자인 변경." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
