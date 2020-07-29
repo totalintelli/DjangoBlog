@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06274977-175c-4874-b77f-ac90b39f90af" name="Default Changelist" comment="게시물 조회화면 디자인 변경.">
+    <list default="true" id="06274977-175c-4874-b77f-ac90b39f90af" name="Default Changelist" comment="게시물 조회화면 코드 수정.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook/static/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/static/css/blog.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook/templates/notebook/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/templates/notebook/post_list.html" afterDir="false" />
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595981525136</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="게시물 조회화면 코드 수정.">
+      <created>1595982986115</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1595982986115</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,7 +189,8 @@
     <MESSAGE value="부트스트랩 라이브러리 추가. HTML 파일을 웹 페이지로 출력." />
     <MESSAGE value="html 파일에 게시물 출력." />
     <MESSAGE value="게시판 조회 화면에 부트스트랩 적용." />
-    <option name="LAST_COMMIT_MESSAGE" value="게시판 조회 화면에 부트스트랩 적용." />
+    <MESSAGE value="게시물 조회화면 코드 수정." />
+    <option name="LAST_COMMIT_MESSAGE" value="게시물 조회화면 코드 수정." />
   </component>
   <component name="WindowStateProjectService">
     <state x="366" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595915423863">
@@ -205,10 +213,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="287" y="59" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595921739555" />
-    <state x="329" y="54" key="Vcs.Push.Dialog.v2" timestamp="1595981558858">
+    <state x="329" y="54" key="Vcs.Push.Dialog.v2" timestamp="1595983017517">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="329" y="54" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595981558858" />
+    <state x="329" y="54" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595983017517" />
     <state x="860" y="100" width="584" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595935573627">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
